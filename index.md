@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 4FBF: Friendship 2025 - Mix competition
+title: 4FBF: Friendship 2025 - Mix Competition
 ---
 
 <div id="ff-compose"></div>
